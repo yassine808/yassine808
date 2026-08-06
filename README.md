@@ -1,7 +1,8 @@
 <img align="right" width="260" src="https://spotify-github-profile.kittinanx.com/api/view?uid=3166og5dtxtlesvje3c62lxr3jre&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=true&hide_remaster=true&bar_color=ba16d0&bar_color_cover=false" />
+<img align="right" width="260" src="https://github-readme-stats.shion.dev/api/top-langs/?username=yassine808&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
-# Hi, I'm Yassine 👋
-### Hacker · Builder · Open Source
+<h2>Hi, I'm Yassine 👋</h2>
+<h4>Hacker · Builder · Open Source</h4>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=false&vCenter=true&width=350&lines=Coding+in+the+dark;Automating+everything;Open+Source+lover" alt="typing" />
 
@@ -11,7 +12,6 @@
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=yassine808&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=yassine808&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 <p align="center">
