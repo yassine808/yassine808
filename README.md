@@ -35,8 +35,8 @@
 ### 🎵 Now Playing
 
 <p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3166og5dtxtlesvje3c62lxr3jre&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3166og5dtxtlesvje3c62lxr3jre&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=true&hide_remaster=true&bar_color=ba16d0&bar_color_cover=false" />
   </a>
 </p>
 
