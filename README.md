@@ -32,6 +32,24 @@
 
 ---
 
+### 🎵 Now Playing
+
+<p align="center">
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
+  </a>
+</p>
+
+---
+
+### 💻 Terminal
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yassine808/yassine808/main/terminal.gif" width="600" />
+</p>
+
+---
+
 ### 🛠 Tech
 
 <p align="center">
