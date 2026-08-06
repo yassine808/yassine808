@@ -1,17 +1,13 @@
-<h1 align="center">Hi, I'm Yassine 👋</h1>
-<h3 align="center">Hacker · Builder · Open Source</h3>
+<img align="right" width="260" src="https://spotify-github-profile.kittinanx.com/api/view?uid=3166og5dtxtlesvje3c62lxr3jre&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=true&hide_remaster=true&bar_color=ba16d0&bar_color_cover=false" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=440&lines=Coding+in+the+dark;Automating+everything;Open+Source+lover" alt="typing" />
-  <br/>
-  <a href="https://github.com/yassine808"><img src="https://img.shields.io/github/followers/yassine808?label=Follow&style=social"></a>
-</p>
+# Hi, I'm Yassine 👋
+### Hacker · Builder · Open Source
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3166og5dtxtlesvje3c62lxr3jre&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3166og5dtxtlesvje3c62lxr3jre&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=true&hide_remaster=true&bar_color=ba16d0&bar_color_cover=false" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=false&vCenter=true&width=350&lines=Coding+in+the+dark;Automating+everything;Open+Source+lover" alt="typing" />
+
+[![Follow](https://img.shields.io/github/followers/yassine808?label=Follow&style=social)](https://github.com/yassine808)
+
+<br clear="both"/>
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=yassine808&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
