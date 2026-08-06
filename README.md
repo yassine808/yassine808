@@ -3,15 +3,9 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=440&lines=Coding+in+the+dark;Automating+everything;Open+Source+lover" alt="typing" />
-</p>
-
-<p align="center">
+  <br/>
   <a href="https://github.com/yassine808"><img src="https://img.shields.io/github/followers/yassine808?label=Follow&style=social"></a>
 </p>
-
----
-
-### 🎵 Now Playing
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3166og5dtxtlesvje3c62lxr3jre&redirect=true">
@@ -19,42 +13,19 @@
   </a>
 </p>
 
----
-
-### 🔥 GitHub Stats
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yassine808&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yassine808&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=yassine808&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassine808&theme=github-dark-blue&hide_border=true" />
 </p>
 
----
-
-### 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yassine808&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
----
-
-### 💻 Terminal
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/yassine808/yassine808/main/terminal.gif" width="600" />
 </p>
 
----
-
-### 🛠 Tech
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,cs,git,github,vscode" />
 </p>
-
----
-
-<p align="center">⭐ from <a href="https://github.com/yassine808">yassine808</a></p>
