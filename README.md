@@ -21,14 +21,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yassine808/yassine808/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ### 🔥 GitHub Stats
 
 <p align="center">
@@ -44,7 +36,7 @@
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yassine808&theme=github_dark" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yassine808&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ---
