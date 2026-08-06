@@ -20,7 +20,7 @@ I'm Yassine — building automation tools, security scripts, and profile hacks. 
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yassine808&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.shion.dev/api?username=yassine808&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
