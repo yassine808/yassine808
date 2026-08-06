@@ -16,16 +16,14 @@ I build automation tools and web projects — from Python/PowerShell scripts (St
 <br clear="both"/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,cs,git,github,vscode" />
+  <img height="30" src="https://skillicons.dev/icons?i=python,cpp,js,cs,git,github,vscode" />
 </p>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.shion.dev/api?username=yassine808&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-</p>
+<img align="left" width="48%" src="https://github-readme-stats.shion.dev/api?username=yassine808&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yassine808&theme=github-dark-blue&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassine808&theme=github-dark-blue&hide_border=true" />
-</p>
+<br clear="both"/>
+<br/>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yassine808&theme=react-dark&hide_border=true" />
