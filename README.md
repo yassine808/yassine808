@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,100:6e0f8f&height=180&section=header&text=Yassine&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Hacker%20·%20Builder%20·%20Open%20Source&descAlignY=65&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,100:6e0f8f&height=180&section=header&text=Yassine&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Builder%20·%20Open%20Source&descAlignY=65&descSize=18" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ### 👋 whoami
 
-I'm Yassine — building automation tools, security scripts, and profile hacks. Currently exploring open source and low-level systems.
+I build automation tools and web projects — from Python/PowerShell scripts (Steam account switching, AutoHotkey game utilities) to full web apps (portfolio, EMSI school projects: scraping tools, a steam dashboard, an online banking JEE app). Also maintain my own Claude settings and a SonarQube helper extension.
 
 <br clear="both"/>
 
