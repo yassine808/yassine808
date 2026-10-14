@@ -26,8 +26,7 @@
 <br/>
 <br/>
 
-<img align="left" width="26%" alt="Now playing on Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=3166og5dtxtlesvje3c62lxr3jre&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=true&hide_remaster=true&bar_color=ba16d0&bar_color_cover=false" />
-<img align="right" width="66%" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=yassine808&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img align="left" width="26%" alt="Now playing on Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=3166og5dtxtlesvje3c62lxr3jre&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=true&hide_remaster=true&bar_color=ba16d0&bar_color_cover=false" /><img align="right" width="66%" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=yassine808&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 <br clear="both"/>
 <br/>
 <br/>
