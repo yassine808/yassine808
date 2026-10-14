@@ -14,6 +14,10 @@
 <h3 align="center">👋 whoami</h3>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/yassine808/yassine808/main/assets/terminal.svg" alt="Terminal: cat now.txt — building Facturio, automating Windows with PowerShell and Python, 359 skills in Claude Code" />
+</p>
+
+<p align="center">
   <b>Mohammed Yassine Magri</b> — engineering student at EMSI who ships the small tools I wish existed.
 </p>
 
@@ -66,5 +70,9 @@
 <br/>
 
 <p align="center">
-  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,100:6e0f8f&height=100&section=footer" />
+  <img src="https://raw.githubusercontent.com/yassine808/yassine808/main/assets/marquee.svg" alt="Ticker: PowerShell automation ★ Python ★ Next.js ★ Unreal Engine C++ ★ Claude Code ★ AES-256 vaults ★ RAG chatbots ★ Open source" />
+</p>
+
+<p align="center">
+  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,100:6e0f8f&height=100&section=footer&animation=fadeIn" />
 </p>
