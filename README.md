@@ -9,7 +9,22 @@
 <h3 align="center">👋 whoami</h3>
 
 <p align="center">
-  I build automation tools and web projects — from Python/PowerShell scripts (Steam account switching, AutoHotkey game utilities) to full web apps (portfolio, EMSI school projects: scraping tools, a steam dashboard, an online banking JEE app). Also maintain my own Claude settings and a SonarQube helper extension.
+  <b>Mohammed Yassine Magri</b> — engineering student at EMSI who ships the small tools I wish existed.
+</p>
+
+<p align="center">
+  Windows automation first, in PowerShell and Python:
+  <a href="https://github.com/yassine808/network-tracker">DataGuard</a> warns you before your hotspot data runs out,
+  account switchers for Steam and Riot cut the login dance, and
+  <a href="https://github.com/yassine808/drive-vault-app">Vault</a> locks passwords behind AES-256 with Google Drive sync.
+</p>
+
+<p align="center">
+  Then the web and the rest:
+  <a href="https://github.com/yassine808/project1">Facturio</a> (Next.js 16 invoicing),
+  <a href="https://github.com/yassine808/PFA-2025">MarHist</a> (a LangChain + Ollama RAG chatbot),
+  a 3D <a href="https://github.com/yassine808/Tetris-game">Tetris</a> in pure C++ for Unreal 5.8, and
+  <a href="https://github.com/yassine808/claude-settings">MyCld</a> — the 359-skill Claude Code setup I work in every day.
 </p>
 
 <h3 align="center">🛠️ stack</h3>
