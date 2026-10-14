@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/yassine808"><img src="https://img.shields.io/github/followers/yassine808?label=Follow&style=social" alt="Follow yassine808"></a>
-  <a href="https://github.com/yassine808"><img src="https://komarev.com/ghpvc/?username=yassine808&color=58A6FF&label=profile+views" alt="Profile views"></a>
+  <a href="https://github.com/yassine808"><img src="https://visitor-badge.laobi.icu/badge?page_id=yassine808.yassine808" alt="Profile views"></a>
 </p>
 
 <h3 align="center">👋 whoami</h3>
