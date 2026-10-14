@@ -20,8 +20,8 @@
 
 <h3 align="center">📊 stats</h3>
 
-<img align="left" width="48%" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=yassine808&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img align="right" width="48%" alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yassine808&theme=github-dark&hide_border=true" />
+<img align="left" width="46%" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=yassine808&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img align="right" width="46%" alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yassine808&theme=github-dark&hide_border=true" />
 <br clear="both"/>
 <br/>
 <br/>
