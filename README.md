@@ -3,7 +3,12 @@
 </p>
 
 <p align="center">
+  <img alt="Mohammed Yassine Magri — typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=Mohammed+Yassine+Magri;Engineering+student+at+EMSI;Windows+automation+in+PowerShell+%26+Python;Shipping+the+tools+I+wish+existed" />
+</p>
+
+<p align="center">
   <a href="https://github.com/yassine808"><img src="https://img.shields.io/github/followers/yassine808?label=Follow&style=social" alt="Follow yassine808"></a>
+  <a href="https://github.com/yassine808"><img src="https://komarev.com/ghpvc/?username=yassine808&color=58A6FF&label=profile+views" alt="Profile views"></a>
 </p>
 
 <h3 align="center">👋 whoami</h3>
@@ -27,6 +32,20 @@
   <a href="https://github.com/yassine808/claude-settings">MyCld</a> — the 359-skill Claude Code setup I work in every day.
 </p>
 
+<h3 align="center">🚀 featured projects</h3>
+
+<p align="center">
+  <a href="https://github.com/yassine808/network-tracker"><img alt="DataGuard — hotspot monitor" src="https://img.shields.io/badge/DataGuard-hotspot%20monitor-0d1117?style=for-the-badge&labelColor=1f6feb"></a>
+  <a href="https://github.com/yassine808/drive-vault-app"><img alt="Vault — AES-256 passwords" src="https://img.shields.io/badge/Vault-AES--256%20passwords-0d1117?style=for-the-badge&labelColor=238636"></a>
+  <a href="https://github.com/yassine808/assist"><img alt="RiotSwitcher — account switcher" src="https://img.shields.io/badge/RiotSwitcher-account%20switcher-0d1117?style=for-the-badge&labelColor=da3633"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yassine808/project1"><img alt="Facturio — Next.js 16 invoicing" src="https://img.shields.io/badge/Facturio-Next.js%2016%20invoicing-0d1117?style=for-the-badge&labelColor=8957e5"></a>
+  <a href="https://github.com/yassine808/Tetris-game"><img alt="3D Tetris — pure C++ for UE 5.8" src="https://img.shields.io/badge/3D%20Tetris-pure%20C%2B%2B%20for%20UE%205.8-0d1117?style=for-the-badge&labelColor=d29922"></a>
+  <a href="https://github.com/yassine808/claude-settings"><img alt="MyCld — Claude Code setup" src="https://img.shields.io/badge/MyCld-Claude%20Code%20setup-0d1117?style=for-the-badge&labelColor=db61a2"></a>
+</p>
+
 <h3 align="center">🛠️ stack</h3>
 
 <p align="center">
@@ -45,15 +64,6 @@
 <br clear="both"/>
 <br/>
 <br/>
-
-<h3 align="center">🐍 contributions</h3>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yassine808/yassine808/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/yassine808/yassine808/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
-  </picture>
-</p>
 
 <p align="center">
   <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,100:6e0f8f&height=100&section=footer" />
