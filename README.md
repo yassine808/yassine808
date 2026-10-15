@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img alt="Mohammed Yassine Magri — typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=Mohammed+Yassine+Magri;Final-year+at+EMSI+%C2%B7+Informatique+%26+R%C3%A9seaux;Windows+automation+in+PowerShell+%26+Python;Shipping+the+tools+I+wish+existed" />
+  <img alt="Mohammed Yassine Magri — typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=Mohammed+Yassine+Magri;EMSI+graduate+%C2%B7+Informatique+%26+R%C3%A9seaux;Windows+automation+in+PowerShell+%26+Python;Shipping+the+tools+I+wish+existed" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  📫 <a href="mailto:ysmagri@gmail.com">ysmagri@gmail.com</a> · 📍 Rabat, Morocco · 💼 open to a PFE internship
+  📫 <a href="mailto:ysmagri@gmail.com">ysmagri@gmail.com</a> · 📍 Rabat, Morocco · 💼 open to opportunities
 </p>
 
 <h3 align="center">👋 whoami</h3>
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <b>Mohammed Yassine Magri</b> — final-year engineering student in <b>Informatique &amp; Réseaux</b> at EMSI, Rabat, who ships the small tools I wish existed.
+  <b>Mohammed Yassine Magri</b> — engineering graduate (<b>Informatique &amp; Réseaux</b>, EMSI Rabat) who ships the small tools I wish existed.
 </p>
 
 <p align="center">
