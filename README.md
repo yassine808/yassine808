@@ -3,12 +3,16 @@
 </p>
 
 <p align="center">
-  <img alt="Mohammed Yassine Magri — typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=Mohammed+Yassine+Magri;Engineering+student+at+EMSI;Windows+automation+in+PowerShell+%26+Python;Shipping+the+tools+I+wish+existed" />
+  <img alt="Mohammed Yassine Magri — typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=Mohammed+Yassine+Magri;Final-year+at+EMSI+%C2%B7+Informatique+%26+R%C3%A9seaux;Windows+automation+in+PowerShell+%26+Python;Shipping+the+tools+I+wish+existed" />
 </p>
 
 <p align="center">
   <a href="https://github.com/yassine808"><img src="https://img.shields.io/github/followers/yassine808?label=Follow&style=social" alt="Follow yassine808"></a>
   <a href="https://github.com/yassine808"><img src="https://visitor-badge.laobi.icu/badge?page_id=yassine808.yassine808" alt="Profile views"></a>
+</p>
+
+<p align="center">
+  📫 <a href="mailto:ysmagri@gmail.com">ysmagri@gmail.com</a> · 📍 Rabat, Morocco · 💼 open to a PFE internship
 </p>
 
 <h3 align="center">👋 whoami</h3>
@@ -18,7 +22,12 @@
 </p>
 
 <p align="center">
-  <b>Mohammed Yassine Magri</b> — engineering student at EMSI who ships the small tools I wish existed.
+  <b>Mohammed Yassine Magri</b> — final-year engineering student in <b>Informatique &amp; Réseaux</b> at EMSI, Rabat, who ships the small tools I wish existed.
+</p>
+
+<p align="center">
+  Summer 2024 at the Douane (ADII): automated their web testing end to end —
+  Selenium + Cucumber BDD with Gherkin scenarios, wired through a Java/Maven framework with JUnit reporting.
 </p>
 
 <p align="center">
@@ -34,6 +43,11 @@
   <a href="https://github.com/yassine808/PFA-2025">MarHist</a> (a LangChain + Ollama RAG chatbot),
   a 3D <a href="https://github.com/yassine808/Tetris-game">Tetris</a> in pure C++ for Unreal 5.8, and
   <a href="https://github.com/yassine808/claude-settings">MyCld</a> — the 359-skill Claude Code setup I work in every day.
+</p>
+
+<p align="center">
+  Also a real-time gesture-control rig: a webcam tracks hands and eyes (MediaPipe + OpenCV)
+  to drive volume, music, screenshots and air-drawing.
 </p>
 
 <h3 align="center">🚀 featured projects</h3>
@@ -53,7 +67,7 @@
 <h3 align="center">🛠️ stack</h3>
 
 <p align="center">
-  <img height="30" alt="Python, C++, JavaScript, C#, Git, GitHub, VS Code" src="https://skillicons.dev/icons?i=python,cpp,js,cs,git,github,vscode" />
+  <img height="30" alt="Python, C++, C#, JavaScript, TypeScript, Java, Flask, Node.js, .NET, Electron, Git, Linux" src="https://skillicons.dev/icons?i=python,cpp,cs,js,ts,java,flask,nodejs,dotnet,electron,git,linux" />
 </p>
 
 <h3 align="center">📊 stats</h3>
